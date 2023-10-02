@@ -1,1 +1,1 @@
-# Workflow-optimisation-for-reproducible-science-in-ecology-and-environmental-science
+# Workflow optimisation for reproducible science in ecology and environmental science
