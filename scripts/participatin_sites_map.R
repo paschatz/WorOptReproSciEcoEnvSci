@@ -1,8 +1,9 @@
-library(ggplot2)
+# Load packages
+library(ggplot2) # to produce the map
 library(maps)
-library(tidyverse)
-library(readxl)
-library(leaflet)
+library(tidyverse) # manipulate data
+library(readxl) # read raw data from .xlsx file
+library(leaflet) # alternative map preview
 
 # Load file with coordinates
 file <- read_xlsx("raw_data/participating_experiments.xlsx", # file path
