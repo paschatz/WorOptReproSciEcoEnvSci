@@ -1,1 +1,1 @@
-Here are stored the raw data as used for /scripts
+```/Participating_experiments.xlsx``` is a data file I generated for the purposes of my PhD project. It contains two sheets: the first sheet contains metadata, and the second sheet contains site information. For a better understanding of the data, please refer to the metadata sheet. 
