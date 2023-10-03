@@ -18,7 +18,7 @@ Once you have set up R and the IDE of your choice is time to setup GitHub. First
 Assuming you have signed up for GitHub and you claimed your account, now you can download the [desktop application](https://desktop.github.com). GitHub Desktop offers an easy-to-use and navigable working environment that doesn't require advanced coding skills.
 
 ## Further reading:
-Here, you can access a list of references and a compilation of courses I have previously attended that have inspired the content of this lecture:
+Here, you can access a list of references and a compilation of courses I have previously attended, which have served as inspiration for the content of this lecture:
 
 ### Peer-reviewed articles:
 - **[A simple kit to use computational notebooks for more openness, reproducibility, and productivity in research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010356)** and the corresponding GitHub [repository](https://github.com/FellowsFreiesWissen/computational_notebooks) with free code!
