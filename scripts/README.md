@@ -1,0 +1,1 @@
+Here you can find the r-scripts we used within the class to demonstrate a reproducible working environment and how to collaborate with GitHub.
