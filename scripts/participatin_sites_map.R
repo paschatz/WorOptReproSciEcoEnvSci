@@ -6,9 +6,8 @@ library(readxl) # read raw data from .xlsx file
 library(leaflet) # alternative map preview
 
 # Load file with coordinates
-file <- read_xlsx("raw_data/participating_experiments.xlsx", # file path
-                  sheet = 2, # sheet number
-                  na = "NA") # read_xlsx has an additional argument for NAs
+file_path <- "raw_data/participating_experiments.xlsx"
+file <- read_xlsx(file_path, sheet = 2, na = "NA")
 
 file$longitude <- as.numeric(file$longitude)
 file$latitude <- as.numeric(file$latitude)

@@ -40,9 +40,3 @@ Here, you can access a list of references and a compilation of courses I have pr
 - [Tidy data for efficiency, reproducibility, and collaboration](https://openscapes.org/blog/2020-10-12-tidy-data/)
 - [Some good practices for research with R](https://github.com/etiennebacher/good-practices)
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
-
-
-
-
-
-
