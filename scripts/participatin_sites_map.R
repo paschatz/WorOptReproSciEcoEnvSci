@@ -6,9 +6,16 @@ library(readxl) # read raw data from .xlsx file
 library(leaflet) # alternative map preview
 
 # Load file with coordinates
+# example with paths:
+absolute_path_KTH <- "/user/theodorou/documents/WorOptReproSciEcoEnvSci/raw_data"
+
+absolute_path_PCH <- "~/Library/CloudStorage/OneDrive-uca.es/WorOptReproSciEcoEnvSci/raw_data"
+
+# Relative path
 file_path <- "raw_data/participating_experiments.xlsx"
 file <- read_xlsx(file_path, sheet = 2, na = "NA")
 
+# Clean data
 file$longitude <- as.numeric(file$longitude)
 file$latitude <- as.numeric(file$latitude)
 str(file)
