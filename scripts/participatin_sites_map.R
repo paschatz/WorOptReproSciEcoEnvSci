@@ -20,7 +20,7 @@ file$longitude <- as.numeric(file$longitude)
 file$latitude <- as.numeric(file$latitude)
 str(file)
 coord <- file %>% 
-  select(latitude, longitude)
+  select(latitude, longitude
 
 # Plot
 world_map <- ggplot() +
