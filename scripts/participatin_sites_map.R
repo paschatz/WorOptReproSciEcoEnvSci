@@ -7,6 +7,8 @@ library(leaflet) # alternative map preview
 
 # Load file with coordinates
 # example with paths:
+
+# Can you paste the absolute path of the raw_data folder from your computer?
 absolute_path_KTH <- "/user/theodorou/documents/WorOptReproSciEcoEnvSci/raw_data"
 
 absolute_path_PCH <- "~/Library/CloudStorage/OneDrive-uca.es/WorOptReproSciEcoEnvSci/raw_data"
