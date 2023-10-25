@@ -35,6 +35,7 @@ Here, you can access a list of references and a compilation of courses I have pr
 - [The future of ecological research will not be (fully) automated](https://www.authorea.com/users/6513/articles/663338-the-future-of-ecological-research-will-not-be-fully-automated)
   
 ### Various online resources:
+- [Configure git](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
 - [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/index.html)
 - [How to use R Markdown ](https://www.rforecology.com/post/how-to-use-rmarkdown-part-one/?fbclid=IwAR0Axz3yb5Ql0Z0Koz6baJnN3POa6ut4FNo1jbJPOB4NWXeyNSVMXwMZDeM) 
 - [Tidy data for efficiency, reproducibility, and collaboration](https://openscapes.org/blog/2020-10-12-tidy-data/)
