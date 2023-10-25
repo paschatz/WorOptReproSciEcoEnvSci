@@ -27,7 +27,7 @@ coord <- file %>%
 
 # Plot
 world_map <- ggplot() +
-  borders("world", fill = "white" colour = "red") + # Need help with code! 
+  borders("world", fill = "white", colour = "red") + # Code OK! 
   geom_point(data = file, aes(longitude, latitude), size = 2) +
   coord_fixed(1.3) +
   theme_void() +
