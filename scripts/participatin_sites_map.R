@@ -11,7 +11,7 @@ library(leaflet) # alternative map preview
 # Can you paste the absolute path of the raw_data folder from your computer?
 #Paschalis, I changed the local path
 absolute_path_KTH <- "C:\Users\User\Documents\GitHub\WorOptReproSciEcoEnvSci"
-
+# KALISPERA! THELW VOITHEIA ME TI SEIRA 15, VOITHEIA
 absolute_path_PCH <- "~/Library/CloudStorage/OneDrive-uca.es/WorOptReproSciEcoEnvSci/raw_data"
 
 # Relative path
