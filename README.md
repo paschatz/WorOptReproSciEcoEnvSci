@@ -22,8 +22,6 @@ Assuming you have signed up for GitHub and claimed your account, you can now dow
 ## Setting up your GitHub local path
 Setting up a local GitHub repository is a straightforward process that can be accomplished through the GitHub Desktop interface with just a few simple steps. However, I'd like to highlight an alternative approach that could prove useful to many. Once you begin using GitHub to organize your projects, especially projects involving coding, it can be challenging to return to basic cloud services. Nevertheless, there may be situations where your collaborators are unable to join you on GitHub, even though it can save a significant amount of time. In such cases, you may find yourself collaborating via cloud services like Dropbox, Google Drive, as well as email. If you are still collaborating primarily through email, I'm really sorry, but I won't be able to help. However, if you are using cloud services, there's a 'hack' that can change the way you collaborate. You can configure the path for your local repository within the folder of your chosen cloud service (e.g., iCloud, Google Drive). This allows other users to have access, even if they are not using GitHub. Additionally, it provides an extra layer of security. In case something goes wrong with either the cloud servers or GitHub, you will still have access to your project.
 
-I introduce some changes here just to test it! 
-HIIII
 ## Further reading:
 Here, you can access a list of references and a compilation of courses I have previously attended, which have served as an inspiration for the content of this lecture.
 

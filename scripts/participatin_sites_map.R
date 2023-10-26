@@ -4,6 +4,7 @@ library(maps)
 library(tidyverse) # manipulate data
 library(readxl) # read raw data from .xlsx file
 library(leaflet) # alternative map preview
+library(vegan)
 
 # Load file with coordinates
 # example with paths:
