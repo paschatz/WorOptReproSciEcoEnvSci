@@ -7,7 +7,7 @@ library(leaflet) # alternative map preview
 
 # Load file with coordinates
 # example with paths:
-absolute_path_KTH <- "/user/theodorou/documents/WorOptReproSciEcoEnvSci/raw_data"
+absolute_path_KTH <- "C:\Users\User\Documents\GitHub\WorOptReproSciEcoEnvSci\raw_data "
 
 absolute_path_PCH <- "~/Library/CloudStorage/OneDrive-uca.es/WorOptReproSciEcoEnvSci/raw_data"
 
