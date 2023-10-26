@@ -12,6 +12,7 @@ library(leaflet) # alternative map preview
 #Paschalis, I changed the local path
 absolute_path_KTH <- "C:\Users\User\Documents\GitHub\WorOptReproSciEcoEnvSci"
 # KALISPERA! THELW VOITHEIA ME TI SEIRA 15, VOITHEIA
+#DEN EXO XRONO. NA ZHTHSEIS APO ALLON VOITHIA
 absolute_path_PCH <- "~/Library/CloudStorage/OneDrive-uca.es/WorOptReproSciEcoEnvSci/raw_data"
 
 # Relative path
