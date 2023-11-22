@@ -1,4 +1,4 @@
-# Information and data architecture in environmental sciences: Folder structure, metadata and project management through GitHub
+# Information and data architecture in Ecology: Folder structure, metadata and project management through GitHub
 
 This serves as an open-access repository for the forthcoming lecture entitled 'Information and data architecture in environmental sciences: Folder structure, metadata and project management through GitHub'.
 
