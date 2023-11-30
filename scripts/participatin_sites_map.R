@@ -9,6 +9,8 @@ library(vegan)
 # Load file with coordinates
 # example with paths:
 
+HEY, I NEED HELP WITH FUNCTION LM*()
+
 # Can you paste the absolute path of the raw_data folder from your computer?
 #Paschalis, I changed the local path
 absolute_path_KTH <- "C:\Users\User\Documents\GitHub\WorOptReproSciEcoEnvSci"
